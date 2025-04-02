@@ -1,4 +1,4 @@
-## Welcome to my profile! I upload projects here that mainly center around data analysis and economics. All projects are coded in R. Data was provided from economic courses I have taken from my university. 
+## Welcome to my profile! I upload projects here that mainly center around data analysis and economics. All projects are coded in R. Data was provided from economic courses I have taken during my time at university. 
 <!--
 **paulECOProjects/paulECOProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
